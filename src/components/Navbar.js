@@ -15,8 +15,8 @@ function Navbar() {
           placeholder="Search for anything"
           className="bg-trasparent text-sm outline-none"/>
         </form>
-        <h3 className="hidden text-sm lg:block">Udemy Buisness</h3>
-        <h3 className="hidden text-sm lg:block md:hidden">Tech on Udemy</h3>
+        <h3 className="hidden text-sm lg:block">About EduWave</h3>
+        <h3 className="hidden text-sm lg:block md:hidden">My Learnings</h3>
         <div className="flex">
 
         <SearchIcon className="h-6 w-6 text-gray-400 md:hiddem"/>
