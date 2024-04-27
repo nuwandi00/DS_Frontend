@@ -28,7 +28,7 @@ function Main() {
             key={index}
             src={image}
             alt={`img${index + 1}`}
-            className={`absolute top-0 left-0 w-full h-full object-cover bg-no-repeate bg-bottom transition-opacity duration-300 ${
+            className={`absolute top-0 left-0 w-full h-full object-cover bg-no-repeate bg-bottom transition-opacity duration-100 ${
               index === currentImage ? 'opacity-100' : 'opacity-0'
             }`}
           />
